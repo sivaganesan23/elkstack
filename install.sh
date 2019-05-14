@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=7.0.1
+VERSION=5.5.3
 LOG=/tmp/elklog
 rm -f $LOG
 
